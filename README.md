@@ -1,4 +1,6 @@
 # 🛡️ Sentinel-Insight v2.1
+![Dashboard Screenshot](./dashboard.png)
+
 **Advanced AI Intelligence Dashboard for PDF Analysis**
 
 Sentinel-Insight is a high-performance Cyber-Dashboard built with **React** and **FastAPI**, powered by **Gemini 1.5 Flash**. It allows users to ingest complex PDF documents into a "Core Memory" for instant querying and automated summarization.
